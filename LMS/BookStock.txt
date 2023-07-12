@@ -1,0 +1,10 @@
+Harry Potter,J K Rowling,28,$2
+Start With Why,Simon Sinek,9,$1.5
+Programming with Python,John Smith,19,$1.5
+Rich Dad Poor Dad,Robert Kayosaki,30,$2
+Letting Go,Phillip Roth,20,$1
+Fear of Flying,Erica Jong,10,$1.5
+Little Women,Louisa May Alcott,15,$1
+The Phantom Tollbooth,Norton Juster,20,$1.5
+The Heart of the Matter,Graham Greene,30,$2
+The Glass Hotel,Emily St.,40,$1.5
